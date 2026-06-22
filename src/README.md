@@ -1,4 +1,4 @@
 Pasta do código do projeto com a aplicação Flask.
 
 Arquivos:
-- app.py: aplicação principal
+- app.py: aplicação principal (agora com SQLite/SQLAlchemy)
