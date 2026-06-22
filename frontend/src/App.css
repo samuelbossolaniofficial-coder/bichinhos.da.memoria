@@ -1,0 +1,9 @@
+body{ font-family: Arial, sans-serif; margin: 20px }
+.container{ max-width:900px; margin:0 auto }
+.row{ display:flex; gap:20px }
+.col{ flex:1 }
+ul{ padding-left:20px }
+li{ cursor:pointer; padding:4px }
+li.selected{ background:#def }
+input{ padding:6px; margin-right:6px }
+button{ padding:6px }
